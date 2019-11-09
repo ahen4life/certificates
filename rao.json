@@ -1,0 +1,19 @@
+{
+    "badges": {
+        "title": "Réponse à appel d'offres"
+        },
+        "skills": {
+            "1": {
+                "type": "Capacités rédactionnelles",
+                "comment": "RAO très bien rédigé. Bravo !"
+            "2": {
+                "type": "Esprit de synthèse",
+                "comment": "Bonne synthèse des enjeux"
+            },
+            "3": {
+                "type": "Aisance orale",
+                "comment": "Présentation de qualité. Continuez"
+            },
+        }
+    }
+}

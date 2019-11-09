@@ -1,0 +1,19 @@
+{
+    "badges": {
+        "title": "Animation d'une conférence métier"
+        },
+        "skills": {
+            "1": {
+                "type": "Mise en scène",
+                "comment": "Belle mise en scène !"
+            "2": {
+                "type": "Support de présentation",
+                "comment": "Support de très grande qualité"
+            },
+            "3": {
+                "type": "Aisance orale",
+                "comment": "Bravo !"
+            },
+        }
+    }
+}
