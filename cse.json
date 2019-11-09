@@ -1,19 +1,25 @@
 {
-    "badges": {
-        "title": "Animation d'une conférence métier"
-        },
-        "skills": {
-            "1": {
-                "type": "Mise en scène",
-                "comment": "Belle mise en scène !"
-            "2": {
-                "type": "Support de présentation",
-                "comment": "Support de très grande qualité"
-            },
-            "3": {
-                "type": "Aisance orale",
-                "comment": "Bravo !"
-            },
-        }
+  "name": "Participation à une activité du CSE",
+  "category": "Vie du cabinet",
+  "description": "Pour avoir effectué un superbe saut en parachute",
+  "year": 2020,
+  "manager": "N/A",
+  "unit": "N/A",
+  "skills": [
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
     }
+  ]
 }
