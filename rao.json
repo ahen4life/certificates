@@ -1,19 +1,25 @@
 {
-    "badges": {
-        "title": "Réponse à appel d'offres"
-        },
-        "skills": {
-            "1": {
-                "type": "Capacités rédactionnelles",
-                "comment": "RAO très bien rédigé. Bravo !"
-            "2": {
-                "type": "Esprit de synthèse",
-                "comment": "Bonne synthèse des enjeux"
-            },
-            "3": {
-                "type": "Aisance orale",
-                "comment": "Présentation de qualité. Continuez"
-            },
-        }
+  "name": "Réponse à appel d'offres",
+  "category": "Business",
+  "description": "Pour avoir répondu à un appel d'offres ENEDIS",
+  "year": 2019,
+  "manager": "BDU",
+  "unit": "LCO",
+  "skills": [
+    {
+      "type": "Capacités rédactionnelles",
+      "grade": 4,
+      "comment": "Excellente rédaction"
+    },
+    {
+      "type": "Capacités de synthèse",
+      "grade": 3,
+      "comment": "Bon esprit de synthèse"
+    },
+    {
+      "type": "Relecture",
+      "grade": 4,
+      "comment": "Un lynx !"
     }
+  ]
 }
