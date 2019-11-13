@@ -1,0 +1,26 @@
+{
+  "name": "Ouverture d'un compte client",
+  "validity": false,
+  "category": "Business",
+  "description": "",
+  "year": "",
+  "manager": "",
+  "unit": "",
+  "skills": [
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    }
+  ]
+}
